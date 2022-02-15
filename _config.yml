@@ -23,7 +23,7 @@ email: esprits@createcaribbean.org
 description: The professional profile page for Dr. Schuyler Esprit # this means to ignore newlines until "baseurl:"
 
 baseurl: "/schuylere" # the subpath of your site, e.g. /blog
-url: "https://schuyleresprit.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://schuyleresprit.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: schuyleresprit
 github_username:  schuyleresprit
 
